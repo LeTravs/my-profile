@@ -12,8 +12,8 @@ export const ABOUT_TEXT_3 =
 
 // RESUME PAGE
 export const RESUME_TEXT_1 =
-  "I love bringing stories, stickers, and coloring pages to life.  It's so rewarding to see the joy on a child's face when they discover something new and creative. My goal is to create high-quality digital products that spark imagination, entertain, and delight, especially for kids.";
+  'I love bringing stories, stickers, and coloring pages to life.  Its so rewarding to see the joy on a childs face when they discover something new and creative. My goal is to create high-quality digital products that spark imagination, entertain, and delight, especially for kids.';
 
 export const RESUME_TEXT_2 =
-   "Digital Product Creator with over 1 year of experience in crafting and enhancing storybooks for children. I use Canva to design and create these storybooks, selling them online to provide fun, educational, and engaging experiences for kids.";
+  'Digital Product Creator with over 1 year of experience in crafting and enhancing storybooks for children. I use Canva to design and create these storybooks, selling them online to provide fun, educational, and engaging experiences for kids.';
 
