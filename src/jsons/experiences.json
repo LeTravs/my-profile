@@ -1,18 +1,27 @@
 {
   "companies": [
     {
-      "title": "Dont have Experince",
+      "company": "",
+      "title": "",
+      "duration": "",
       "tasks": [
+        
       ]
     },
     {
-      "title": ".",
+      "company": "",
+      "title": "",
+      "duration": "",
       "tasks": [
+        
       ]
     },
     {
-      "title": ".",
+      "company": "",
+      "title": "",
+      "duration": "Ap",
       "tasks": [
+        
       ]
     }
   ]
