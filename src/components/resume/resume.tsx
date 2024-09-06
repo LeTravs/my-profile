@@ -48,14 +48,14 @@ const Resume = () => {
           <div className="col-lg-6">
             <h3 className="resume-title">Professional Experience</h3>
             {Experiences.companies.map((item, index) => {
-              const { company, title, duration, tasks } = item;
+              const { title, tasks } = item;
               return (
                 <div key={index} className="resume-item">
                   <h4>{title}</h4>
-                  <h5>{duration}</h5>
-                  <p>
+                  {/* <h5>{duration}</h5> */}
+                  {/* <p>
                     <em>{company}</em>
-                  </p>
+                  </p> */}
                   <ul>
                     {tasks.map((task, index) => (
                       <li key={index}>{task}</li>
