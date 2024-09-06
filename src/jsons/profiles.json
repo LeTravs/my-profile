@@ -1,0 +1,38 @@
+{
+  "data_1": [
+    { "birthday": "28 Sep 2002" },
+    { "phone": "+63 9385332858" },
+    { "address": "Ulbujan, Calape, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S Information Tecnology" },
+    { "email": "<a href='mailto:someone@example.com'>munk949@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Ulbujan, Calape, Bohol, Philippines",
+    "+63 9385332858",
+    "<a href='mailto:someone@example.com'>munk949@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Tecnology",
+      "year": "2021 - 2024",
+      "school": "Mater Dei College ",
+      "address": "Central Nautical Hwy, Cabulijan Tubigon"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2015",
+      "school": "Ulbujan Elementary School",
+      "address": "Ulbujan, Calape, Bohol, Philippines"
+    }
+  ]
+}
